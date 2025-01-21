@@ -1,0 +1,5 @@
+numpy
+pandas
+notebook
+loguru
+scikit-learn
