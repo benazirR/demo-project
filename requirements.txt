@@ -4,3 +4,8 @@ pandas
 loguru
 scikit-learn
 ipykernel
+tqdm
+matplotlib
+seaborn
+ydata-profiling
+dtale
