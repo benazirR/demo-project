@@ -1,6 +1,6 @@
 numpy
 pandas
-# notebook
+notebook
 loguru
 scikit-learn
 ipykernel
@@ -9,3 +9,4 @@ matplotlib
 seaborn
 ydata-profiling
 dtale
+catboost
