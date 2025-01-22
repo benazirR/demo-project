@@ -10,3 +10,4 @@ seaborn
 ydata-profiling
 dtale
 catboost
+ipywidgets
