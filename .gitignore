@@ -175,3 +175,4 @@ cython_debug/
 
 # workspace Extensions
 *.code-workspace
+*.zip
